@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abedshadin&label=Profile%20views&color=0e75b6&style=flat" alt="abedshadin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abedshadin" alt="abedshadin" /></a> </p>
+<p align="left"> <a href="https://github.com/abedshadin"><img src="https://github-profile-trophy.vercel.app/?username=abedshadin" alt="abedshadin" /></a> </p>
 
 - 🔭 I’m currently working on [Rasel Enterprise Accounting App](https://github.com/abedshadin/rasel-ent)
 

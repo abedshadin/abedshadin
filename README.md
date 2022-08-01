@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @abedshadin
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Javascript
-- 💞️ I’m looking to collaborate on ...Banking Project
+- 🔭 I’m currently working on Rasel Enterprise Accounting App.
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Banking Project
 - 📫 How to reach me ...
 
 <!---

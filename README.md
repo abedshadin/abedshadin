@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/abedshadin"><img src="https://github-profile-trophy.vercel.app/?username=abedshadin" alt="abedshadin" /></a> </p>
 
-- 🔭 I’m currently working on [uShuttle App](https://github.com/abedshadin)
+- 🔭 I’m currently working on [uShuttle App](https://github.com/abedshadin/shuttle_bus_client)
 
 - 🌱 I’m currently learning **Next.JS, Redux.**
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/abedshadin"><img src="https://github-profile-trophy.vercel.app/?username=abedshadin" alt="abedshadin" /></a> </p>
 
-- 🔭 I’m currently working on [uShuttle App](https://github.com/abedshadin/shuttle_bus_client)
+- 🔭 I’m currently working on Railway Ticket Automation
 
 - 🌱 I’m currently learning **Next.JS, Redux.**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abedshadin.netlify.app/](https://abedshadin.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JS, React**
+- 💬 Ask me about **HTML, CSS, JS, React, PHP, Python**
 
 - 📫 How to reach me **abedshadin@gmail.com**
 
